@@ -36,4 +36,9 @@
 }
 #description {
   margin-top: 16px;
+  font-size: 14px;
+}
+#purchase-button {
+  margin-top: 8px;
+  margin-bottom: 16px;
 }
