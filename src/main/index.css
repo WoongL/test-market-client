@@ -1,9 +1,10 @@
 #banner1 {
-  height: 300px;
+  max-height: 300px;
 }
 
 #banner1 > img {
   width: 100%;
+  max-height: 300px;
 }
 #body > h1 {
   margin-top: 16px;

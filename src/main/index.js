@@ -16,6 +16,7 @@ function MainPage() {
       .get(
         `${API_URI}/products`
         // "https://94b57d65-4706-4bb6-9102-3f85325572a9.mock.pstmn.io/products"
+        // 
       )
       .then(function (result) {
         const products = result.data.products;
